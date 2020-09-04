@@ -1,0 +1,25 @@
+/* CSS Document */
+
+body{
+margin: 0;
+padding: 0;
+}
+
+.card{text-align: center; border: none; border-radius: 5px;-webkit-box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
+-moz-box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
+box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.75);
+margin-bottom: 100px;
+}
+
+.text-success{
+    color: #007DB9 !important;
+}
+.btn-primary{
+    background-color: #007DB9 !important;
+}
+.btn-warning{
+    background-color: gold !important;
+}
+.text-warning{
+    color: gold !important;
+}
